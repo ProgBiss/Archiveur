@@ -2,11 +2,11 @@
 
 Programme qui permet d'archiver des fichiers et d'en extraire.
 
-INSTALLATION
+INSTALLATION WINDOWS
 -------------------------------------------------------------------------------
 1. Télécharger et installer Python3 (https://www.python.org/)
 
-2. WINDOWS : Installer le programme dans le répertoire : C:\Windows\System32,
+2. Installer le programme dans le répertoire : C:\Windows\System32,
    le fichier Batch (.bat) et le fichier Python (.py)
 
 3. Ajouter le chemin vers Python dans les variables d'environnement.
@@ -24,8 +24,11 @@ INSTALLATION
         3.6 Modifier et rajouter à la fin de la ligne : ;C:\Python34\
             N.B.: Ma version était Python3.4, donc le nombre peut être autre que "34".
 
+INSTALLATION LINUX
+-------------------------------------------------------------------------------
+1. Télécharger et installer Python3 (https://www.python.org/)
 
-2. LINUX : Installer le programme dans le répertoire : /usr/local/bin,
+2. Installer le programme dans le répertoire : /usr/local/bin,
    le fichier Batch (.bat) et le fichier Python (.py)
 
 3. Dans l'invite de commandes, écrire la commande suivante pour
@@ -49,11 +52,11 @@ UTILISATION
 
 Program to archive and extract files.
 
-INSTALLATION
+INSTALLATION WINDOWS
 -------------------------------------------------------------------------------
 1. Download and install Python3 (https://www.python.org/)
 
-2. WINDOWS : Install the program in the folder : C:\Windows\System32,
+2. Install the program in the folder : C:\Windows\System32,
    the Batch file (.bat) and the Python file (.py)
 
 3. Add a path heading to Python in the environment variables.
@@ -71,7 +74,11 @@ INSTALLATION
         3.6 Modify and add at the end of the line : ;C:\Python34\
             N.B.: My version was Python3.4, so the number can be other than "34".
             
-2. LINUX : Install the program in the folder : /usr/local/bin,
+INSTALLATION LINUX
+-------------------------------------------------------------------------------
+1. Download and install Python3 (https://www.python.org/)
+
+2. Install the program in the folder : /usr/local/bin,
    the Batch file (.bat) and the Python file (.py)
 
 3. In the Terminal, write the following command to make it executable : chmod +x Archiveur.py
