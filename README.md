@@ -7,6 +7,7 @@ INSTALLATION
 1. Télécharger et installer Python3 (https://www.python.org/)
 
 WINDOWS
+-------------
 2. Installer le programme dans le répertoire : C:\Windows\System32,
    le fichier Batch (.bat) et le fichier Python (.py)
 
@@ -26,6 +27,7 @@ WINDOWS
             N.B.: Ma version était Python3.4, donc le nombre peut être autre que "34".
 
 LINUX
+-------------
 2. Installer le programme dans le répertoire : /usr/local/bin,
    le fichier Batch (.bat) et le fichier Python (.py)
 
